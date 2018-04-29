@@ -1,0 +1,45 @@
+Child selector:
+
+	<head>
+		<style> </style>
+	</head>
+	
+So,style is a child,head is its parent.
+
+ head > style{}
+ 
+ So, p > a{};this means links in a p. ;)
+ 
+ Pseudo elements:
+ 
+	p:first-letter{};first letter of each paragraph.
+	
+External Style Sheets:
+	applying same style for many webpages of a site.Use a css file via <link> tag without using <style>
+	for each individual html files.
+	
+Overriding styles:
+	Add <style> after <link>.Most recent update work.
+	Thst's why it's called cascading style(css).
+	
+Absolute Positioning:
+	Place elements anywhere ignoring overlaps.
+	
+Fixed Positioning:
+	the element just stays at the same place wheather
+	scrolling or not.
+	
+PUBLISHING WEBSITES:
+	1.Google web hosts
+	2.Choose a web hosts(have to pay)
+	3.Choose name(www.something.com).
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
